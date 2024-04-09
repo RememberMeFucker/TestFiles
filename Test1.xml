@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+  <Section1_List>
+		<Object>
+			<Psionic Name>Atrophy</Psionic Name>
+			<Book Page>p. T46</Book Page>
+			<Clearance Level>α Alpha</Clearance Level>
+			<Prerequisite>Kinesis 12</Prerequisite>
+			<Axiom Level>22</Axiom Level>
+			<Casting Time>1 action</Casting Time>
+			<DN>Target's willpower or Spirit</DN>
+			<Range>Touch</Range>
+			<Duration>Concentration</Duration>
+			<Description>Reduce a target's Dexterity and Strength.</Description>
+			<Normal>TBD</Normal>
+			<Good>TBD</Good>
+			<Outstanding>TBD</Outstanding>
+			<Notes>TBD</Notes>
+		</Object>
+		<Object>
+			<Psionic Name>Alter Memory</Psionic Name>
+			<Book Page>p. 207</Book Page>
+			<Clearance Level>α Alpha</Clearance Level>
+			<Prerequisite>Kinesis 12</Prerequisite>
+			<Axiom Level>22</Axiom Level>
+			<Casting Time>1 action</Casting Time>
+			<DN>Target's willpower or Spirit</DN>
+			<Range>Touch</Range>
+			<Duration>Concentration</Duration>
+			<Description>Reduce a target's Dexterity and Strength.</Description>
+			<Normal>TBD</Normal>
+			<Good>TBD</Good>
+			<Outstanding>TBD</Outstanding>
+			<Notes>TBD</Notes>
+		</Object>
+		<Object>
+			<Psionic Name>Alter Object</Psionic Name>
+			<Book Page>p. T44</Book Page>
+			<Clearance Level>α Alpha</Clearance Level>
+			<Prerequisite>Kinesis 12</Prerequisite>
+			<Axiom Level>22</Axiom Level>
+			<Casting Time>1 action</Casting Time>
+			<DN>Target's willpower or Spirit</DN>
+			<Range>Touch</Range>
+			<Duration>Concentration</Duration>
+			<Description>Reduce a target's Dexterity and Strength.</Description>
+			<Normal>TBD</Normal>
+			<Good>TBD</Good>
+			<Outstanding>TBD</Outstanding>
+			<Notes>TBD</Notes>
+		</Object>
+		<Object>
+			<Psionic Name>Ancestral Weapon</Psionic Name>
+			<Book Page>p. P49</Book Page>
+			<Clearance Level>α Alpha</Clearance Level>
+			<Prerequisite>Kinesis 12</Prerequisite>
+			<Axiom Level>22</Axiom Level>
+			<Casting Time>1 action</Casting Time>
+			<DN>Target's willpower or Spirit</DN>
+			<Range>Touch</Range>
+			<Duration>Concentration</Duration>
+			<Description>Reduce a target's Dexterity and Strength.</Description>
+			<Normal>TBD</Normal>
+			<Good>TBD</Good>
+			<Outstanding>TBD</Outstanding>
+			<Notes>TBD</Notes>
+		</Object>
+		<Object>
+			<Psionic Name>Atrophy (p. T46)</Psionic Name>
+			<Book Page>p. 207</Book Page>
+			<Clearance Level>β Beta</Clearance Level>
+			<Prerequisite>Kinesis 12</Prerequisite>
+			<Axiom Level>22</Axiom Level>
+			<Casting Time>1 action</Casting Time>
+			<DN>Target's willpower or Spirit</DN>
+			<Range>Touch</Range>
+			<Duration>Concentration</Duration>
+			<Description>Reduce a target's Dexterity and Strength.</Description>
+			<Normal>TBD</Normal>
+			<Good>TBD</Good>
+			<Outstanding>TBD</Outstanding>
+			<Notes>TBD</Notes>
+		</Object>
+</Section1_List>
